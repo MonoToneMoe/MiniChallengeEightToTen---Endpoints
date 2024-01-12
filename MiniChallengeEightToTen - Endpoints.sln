@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniChallengeEightToTen - Endpoints", "MiniChallengeEightToTen - Endpoints.csproj", "{C926A86A-BAE7-4FB7-9701-DFEC2155A88B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C926A86A-BAE7-4FB7-9701-DFEC2155A88B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C926A86A-BAE7-4FB7-9701-DFEC2155A88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C926A86A-BAE7-4FB7-9701-DFEC2155A88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C926A86A-BAE7-4FB7-9701-DFEC2155A88B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1BE9169-F483-44AB-9E6B-6A40ED4873C3}
+	EndGlobalSection
+EndGlobal
