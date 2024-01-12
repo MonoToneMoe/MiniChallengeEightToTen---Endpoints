@@ -1,33 +1,66 @@
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\appsettings.json
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\MiniChallengeEightToTen - Endpoints.exe
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\MiniChallengeEightToTen - Endpoints.deps.json
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\MiniChallengeEightToTen - Endpoints.runtimeconfig.json
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\MiniChallengeEightToTen - Endpoints.dll
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\MiniChallengeEightToTen - Endpoints.pdb
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\MiniChallengeEightToTen - Endpoints.csproj.AssemblyReference.cache
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\MiniChallengeEightToTen - Endpoints.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\MiniChallengeEightToTen - Endpoints.AssemblyInfoInputs.cache
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\MiniChallengeEightToTen - Endpoints.AssemblyInfo.cs
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\MiniChallengeEightToTen - Endpoints.csproj.CoreCompileInputs.cache
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\MiniChallengeEightToTen - Endpoints.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\MiniChallengeEightToTen - Endpoints.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\staticwebassets\msbuild.MiniChallengeEightToTen - Endpoints.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\staticwebassets\msbuild.build.MiniChallengeEightToTen - Endpoints.props
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MiniChallengeEightToTen - Endpoints.props
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MiniChallengeEightToTen - Endpoints.props
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\scopedcss\bundle\MiniChallengeEightToTen - Endpoints.styles.css
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\MiniChallengeEightToTen - Endpoints.csproj.CopyComplete
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\MiniChallengeEightToTen - Endpoints.dll
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\refint\MiniChallengeEightToTen - Endpoints.dll
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\MiniChallengeEightToTen - Endpoints.pdb
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\MiniChallengeEightToTen - Endpoints.genruntimeconfig.cache
-C:\Users\George Haddad\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeEightToTen - Endpoints\obj\Debug\net7.0\ref\MiniChallengeEightToTen - Endpoints.dll
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/appsettings.json
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/MiniChallengeEightToTen - Endpoints.exe
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/MiniChallengeEightToTen - Endpoints.deps.json
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/MiniChallengeEightToTen - Endpoints.runtimeconfig.json
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/MiniChallengeEightToTen - Endpoints.dll
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/MiniChallengeEightToTen - Endpoints.pdb
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.csproj.AssemblyReference.cache
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.AssemblyInfoInputs.cache
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.AssemblyInfo.cs
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.csproj.CoreCompileInputs.cache
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.MiniChallengeEightToTen - Endpoints.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.build.MiniChallengeEightToTen - Endpoints.props
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MiniChallengeEightToTen - Endpoints.props
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MiniChallengeEightToTen - Endpoints.props
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/scopedcss/bundle/MiniChallengeEightToTen - Endpoints.styles.css
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.csproj.CopyComplete
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.dll
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/refint/MiniChallengeEightToTen - Endpoints.dll
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.pdb
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.genruntimeconfig.cache
+C:/Users/George Haddad/Nextcloud/Codestack/Level 2/Assignments/MiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/ref/MiniChallengeEightToTen - Endpoints.dll
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/bin/Debug/net7.0/appsettings.Development.json
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/bin/Debug/net7.0/appsettings.json
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/bin/Debug/net7.0/MiniChallengeEightToTen - Endpoints
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/bin/Debug/net7.0/MiniChallengeEightToTen - Endpoints.deps.json
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/bin/Debug/net7.0/MiniChallengeEightToTen - Endpoints.runtimeconfig.json
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/bin/Debug/net7.0/MiniChallengeEightToTen - Endpoints.dll
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/bin/Debug/net7.0/MiniChallengeEightToTen - Endpoints.pdb
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.csproj.AssemblyReference.cache
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.AssemblyInfoInputs.cache
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.AssemblyInfo.cs
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.csproj.CoreCompileInputs.cache
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.MvcApplicationPartsAssemblyInfo.cs
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.MvcApplicationPartsAssemblyInfo.cache
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.MiniChallengeEightToTen - Endpoints.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.build.MiniChallengeEightToTen - Endpoints.props
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MiniChallengeEightToTen - Endpoints.props
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MiniChallengeEightToTen - Endpoints.props
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/staticwebassets.build.json
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/staticwebassets.development.json
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/scopedcss/bundle/MiniChallengeEightToTen - Endpoints.styles.css
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.csproj.CopyComplete
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.dll
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/refint/MiniChallengeEightToTen - Endpoints.dll
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.pdb
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/MiniChallengeEightToTen - Endpoints.genruntimeconfig.cache
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/Debug/net7.0/ref/MiniChallengeEightToTen - Endpoints.dll

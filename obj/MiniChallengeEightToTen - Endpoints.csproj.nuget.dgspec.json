@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\George Haddad\\Nextcloud\\Codestack\\Level 2\\Assignments\\MiniChallengeEightToTen - Endpoints\\MiniChallengeEightToTen - Endpoints.csproj": {}
+    "/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/MiniChallengeEightToTen - Endpoints.csproj": {}
   },
   "projects": {
-    "C:\\Users\\George Haddad\\Nextcloud\\Codestack\\Level 2\\Assignments\\MiniChallengeEightToTen - Endpoints\\MiniChallengeEightToTen - Endpoints.csproj": {
+    "/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/MiniChallengeEightToTen - Endpoints.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\George Haddad\\Nextcloud\\Codestack\\Level 2\\Assignments\\MiniChallengeEightToTen - Endpoints\\MiniChallengeEightToTen - Endpoints.csproj",
+        "projectUniqueName": "/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/MiniChallengeEightToTen - Endpoints.csproj",
         "projectName": "MiniChallengeEightToTen - Endpoints",
-        "projectPath": "C:\\Users\\George Haddad\\Nextcloud\\Codestack\\Level 2\\Assignments\\MiniChallengeEightToTen - Endpoints\\MiniChallengeEightToTen - Endpoints.csproj",
-        "packagesPath": "C:\\Users\\George Haddad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\George Haddad\\Nextcloud\\Codestack\\Level 2\\Assignments\\MiniChallengeEightToTen - Endpoints\\obj\\",
+        "projectPath": "/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/MiniChallengeEightToTen - Endpoints.csproj",
+        "packagesPath": "/Users/marcosrodriguez/.nuget/packages/",
+        "outputPath": "/Users/marcosrodriguez/Documents/CodeStack/githubrepo/MiniChallengeEightToTen---Endpoints/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\George Haddad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/marcosrodriguez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
